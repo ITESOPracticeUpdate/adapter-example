@@ -1,3 +1,1 @@
-# adapter-practice
-
-- Clone the repo and compile the code
+# adapter-example
